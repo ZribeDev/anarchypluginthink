@@ -1,0 +1,15 @@
+name: SuperAnarchy
+version: ${project.version}
+main: me.anarchycore.Anarchycore
+api-version: 1.16
+authors: [ ZribeDev ]
+commands:
+  asettings:
+    description: Anarchy Settings
+    aliases: aset
+  gmc:
+    description: Survival
+  gms:
+    description: Creative
+  kill:
+    description: Suicide
